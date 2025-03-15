@@ -1,0 +1,10 @@
+id: vw50
+name: V我50
+version: 1.4.0
+author: '50'
+icon: app.png
+desc: V我50啊！！！！！
+files:
+  - best.cvimodel
+  - best.mud
+  - main.py
